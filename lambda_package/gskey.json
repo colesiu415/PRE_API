@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "signify-hk-office",
+  "private_key_id": "717160e8e2232b2dd921fa0b0026bb92db3c4b82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0FnA+kMbHCHif\nI9QZaVKTx0SGtNdRMPPDM7da4MCEAS09MBVJHeL+UvNpqpIfP2YsbOluSurM5dcS\nCdvdu7gQvoMA+B52rWI7glWCnTGeXGg+S37sllJx92Yzm+zPlojPd9iqQavMNl07\nG/MHBPZkyqadYMMkv094s4nmf1p8HRjwEFtYg4TskyphM7tM89Lur3+0b7HR5+Ia\nU2q3l3l1lHtaOf/Dpv0H5f01PdellCau6fJMeARNP/QY9sgFcshm8rZIaIj/lJZZ\nNYqqCsd6fNd8vL2nPOystAOawOEH94jr6KA34KJl5kD5W3UpB8q+QJmNngIjbU7C\n9IS8Y9NfAgMBAAECggEAVbDxowu/0jhJMSxawea4aOIiTNjjNdqNuz4yCpe0c3ud\n26Y0ErEacHrnIUoNMro3s371ikoytOHO92HikX0/5hPJAV6PHFh/TCLF7ps+34RI\nBBBnaktTGrCmnHse8V5HZjU4TzdleIwLy9MOTrJBTg+RvYQsByHTPnNr9FZ4J2Li\nLq9F/Upr+Te8SMteKUdXWieIxowybssjFjQm2yyBbFtIyad5E9gLlPrKpCTYmdum\nUUr0VHrLbBPknqEe6+1fCP7nPeblK62AmM6j+/AU5H0PsxtNYmi3cg/FMMmdu3j5\nbV0/8Iny81WIglQ9vLOWA+tK+07VzXXoVSJbODDbMQKBgQDne+9UwdbuaJG8Bxh8\n53CZyYmSep7SMoNalN/J0u7bdthKMT/fDvbnmWeuKr6EHl0csc+tCsYjtbm8v6y1\nEZ9Du38QQ4ls5nQ3Sn+Vd5bIXrlBRYSWsU/ALlC5CGskBms2elLCYcA+e7/VpnAB\n2jTkZVcpyTFw8zhvykYzgypuUQKBgQDHKQcGl5cZIqJtB7FlA/qe9sReeJ7kVbTO\n5cW+pAQywmM2FP1W+ncPH2UF/e3elAHJ3wN+OqNTyeOn57A5kXLlbK45LcoIMsyg\nf6vulXv9VKErCwqesb1uJQEWKuzVK0ta7u83l/FUwyHA6xd763o6+dnPqYx0dCLP\n+yZ9K89KrwKBgQChpa0ibd4uS/2A5R+XkXLTIaadEF26ASYy6gVAhbjgrqQpYyzs\nEiIe5sQ9HoI99oolEJIqj3x/0VYr1VnAc9bY0KTRcagU0PVU6wQfFwzHTUZmqyoE\npTtAw9cA7z0KQiU6PL9wGBzMRVRX2MscsAkBeTcd6e5Jpr7BaeoN7MmDkQKBgGIw\nmRUn8cfjqn7ktxIdlxd+hCwrffMHSmBjKk4mYSeBbRaB3LFgRQjAqrb8jaUaBZO4\njulSEapCtCnY8apASoxQO8lXCO9n1DkhGOxE6N9qNRealv7MlJ9UQSfju+YRNVK8\n0FXxZHssxVxuy6I944JmInvelK/pfixaH4zA569jAoGAC4i2WK7xv22Hxj1ycdfW\nrdQSNSpZmXIQe6U0AlRgJ/ZPy5rmO2ziVXipGkGuUy/RLsbxLyL81RNtBEEDOh/6\nhvfjzRw6dJHogKRsuqp4YGnoUfK/HL5xM+AU85c0p1XbKNlVK+eELNglC9M7u+54\nDmMXLtkNfEWvrg8n373/SDk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-pre-api@signify-hk-office.iam.gserviceaccount.com",
+  "client_id": "114370478500431171672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-pre-api%40signify-hk-office.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
